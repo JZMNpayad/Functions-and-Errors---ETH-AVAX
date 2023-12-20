@@ -49,4 +49,3 @@ These error-handling mechanisms collectively contribute to the contract's robust
 
 --- 
 
-Feel free to adjust the descriptions or add more details based on your specific use case and preferences.
